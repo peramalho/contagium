@@ -14,7 +14,9 @@
 # firebase
 /firebase
 .firebaserc
-.firebasejson
+firebase
+firebaserc
+firebase.json
 
 # misc
 .DS_Store
