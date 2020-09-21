@@ -1,1 +1,3 @@
-## Browser Game inspirado no famoso game Drench
+## Contagium App
+
+Browser Game feito em React inspirado no famigerado Drench
