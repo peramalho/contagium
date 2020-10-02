@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Demo: https://seu-cantinho.web.app/
+Demo: https://contagium-app.web.app/
 
-Browser Game done in React, inspirado no famigerado Drench
+Browser Game made in React inspired by the famous Drench
 
 ## Install
 
