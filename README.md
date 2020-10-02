@@ -4,7 +4,7 @@
 
 Demo: https://contagium-app.web.app/
 
-Browser Game made in React inspired by the famous Drench
+Browser Game made in React inspired by the famous Drench game.
 
 ## Install
 
