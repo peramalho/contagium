@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Demo: https://contagium-app.web.app/
+Demo: https://contagium.vercel.app/
 
 Browser Game made in React inspired by the famous Drench game.
 
