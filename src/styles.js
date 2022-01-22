@@ -25,14 +25,3 @@ export const Title = styled.h1`
     margin: 20px 0 20px 0;
   }
 `;
-
-export const Credits = styled.h4`
-  display: flex;
-  margin: 0 auto 0 85px;
-  font-weight: 400;
-  color: #555;
-  
-  @media(max-width: 800px) {
-    margin-left: 25px;
-  }
-`;
